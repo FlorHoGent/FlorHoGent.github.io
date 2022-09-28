@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+    background-color: azure;
+}
+
+img {
+    max-width: 50%;
+    float: left;
+    margin-left: 25%;
+}
+
